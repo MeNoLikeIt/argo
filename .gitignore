@@ -1,0 +1,14 @@
+*.suo
+*.dll
+*.pdb
+src/Argo Solution/packages/
+src/Argo Solution/Argo.mvc/bin/
+src/Argo Solution/Argo.backend/bin/
+src/Argo Solution/Argo.common/bin/
+src/Argo Solution/Argo.common.data/bin/
+src/Argo Solution/Argo.dal/bin/
+src/Argo Solution/Argo.mvc/obj/
+src/Argo Solution/Argo.backend/obj/
+src/Argo Solution/Argo.common/obj/
+src/Argo Solution/Argo.common.data/obj/
+src/Argo Solution/Argo.dal/obj/
